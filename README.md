@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi. My name is Bartek and I'm frontend wordpress developer and Computer Science student.
+My name is Bartek and I'm wordpress developer and Computer Science student.
 
 
 ## 🌐 Socials:
