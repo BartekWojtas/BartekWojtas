@@ -12,7 +12,7 @@
 🌟 I'm committed to writing clean, efficient, and maintainable code, always keeping user experience at the forefront.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bartek.wojtasinski) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bart%C5%82omiej-wojtasi%C5%84ski-48a6ba120/) 
 
 # 💻 Tech Stack:
