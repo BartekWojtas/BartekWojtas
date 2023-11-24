@@ -4,8 +4,11 @@
 # 🎓 About Me:
 
 📚 I'm currently a Computer Science student, diving deep into the fascinating world of algorithms, data structures, and innovative software solutions.
+
 🖥️ As a WordPress developer, I specialize in creating sleek, responsive, and user-friendly websites. My passion lies in turning creative ideas into digital realities.
+
 🛠️ I'm proficient in HTML, CSS, JavaScript, and PHP, and I constantly seek to expand my technical toolkit.
+
 🌟 I'm committed to writing clean, efficient, and maintainable code, always keeping user experience at the forefront.
 
 
