@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Bartek!
 ## 🌐 WordPress Developer | Frontend Developer
 
-#🎓 About Me:
+# 🎓 About Me:
 
 📚 I'm currently a Computer Science student, diving deep into the fascinating world of algorithms, data structures, and innovative software solutions.
 🖥️ As a WordPress developer, I specialize in creating sleek, responsive, and user-friendly websites. My passion lies in turning creative ideas into digital realities.
