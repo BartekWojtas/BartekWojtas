@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Bartek!
-## 🌐 WordPress Developer | Frontend Developer
+## 👷🏻‍♂ WordPress Developer | 👨🏻‍🎨 Frontend Developer
 
 # 🎓 About Me:
 
