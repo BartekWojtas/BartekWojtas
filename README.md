@@ -1,15 +1,49 @@
-# 👋 Hi there, I'm Bartek!
-## 👷🏻‍♂ WordPress Developer | 👨🏻‍🎨 Frontend Developer
+# 👋 Hi there, I'm Bartek!  
+## 🧑🏻‍💻 Full-Stack WordPress Developer | 🚀 Founder of [atrivo.pl](https://atrivo.pl)
 
-# 🎓 About Me:
+---
 
-📚 I'm currently a Computer Science student, diving deep into the fascinating world of algorithms, data structures, and innovative software solutions.
+## 💡 About Me
 
-🖥️ As a WordPress developer, I specialize in creating sleek, responsive, and user-friendly websites. My passion lies in turning creative ideas into digital realities.
+I'm a full-stack WordPress developer with a strong focus on building fast, scalable, and fully custom solutions — from frontend to backend.
 
-🛠️ I'm proficient in HTML, CSS, JavaScript, and PHP, and I constantly seek to expand my technical toolkit.
+🎨 I specialize in modern WordPress development using the **Sage** starter theme, **Advanced Custom Fields (ACF)**, and **Tailwind CSS**, delivering modular, maintainable, and business-oriented codebases.
 
-🌟 I'm committed to writing clean, efficient, and maintainable code, always keeping user experience at the forefront.
+I'm passionate about crafting clean UI, optimizing performance, and delivering websites that are not only beautiful but also easy to manage.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**  
+- HTML, SCSS, BEM, JavaScript (ES6+)  
+- Tailwind CSS, Alpine.js  
+- Blade templating (Sage)  
+
+**Backend**  
+- PHP, WordPress REST API  
+- ACF (Pro), Timber, basic Laravel  
+
+**Tooling & Workflow**  
+- Git, Composer, WP-CLI  
+- Gulp, Webpack, Docker  
+
+---
+
+## 🏗️ About Atrivo
+
+I'm the founder of [atrivo.pl](https://atrivo.pl) — a boutique digital agency delivering high-quality websites, eCommerce platforms, and performance-optimized solutions tailored to our clients' needs.
+
+We blend code with creativity — pixel-perfect, scalable, and always user-first.
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [atrivo.pl](https://atrivo.pl)  
+- 📧 kontakt@atrivo.pl  
+- 💼 [LinkedIn](https://www.linkedin.com/in/bart%C5%82omiej-wojtasi%C5%84ski-48a6ba120/)
+
 
 
 # 🌐 Socials:
